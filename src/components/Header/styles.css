@@ -1,0 +1,23 @@
+.logo {
+    background-color: #FDFDFD;
+    height: 112px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.big {
+    background-color: #FDFDFD;
+    height: 112px;
+    width: 100vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 30px 100px 30px 100px;
+
+
+}

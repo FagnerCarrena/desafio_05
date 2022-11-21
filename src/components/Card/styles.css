@@ -1,0 +1,45 @@
+.card {
+    background-color: #FCFCFC;
+    margin-top: 20px;
+
+    height: 400px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+
+.card img {
+    width: 250px;
+    height: 300px;
+    margin-bottom: 10px;
+
+}
+
+.card span {
+    margin-top: 10px;
+    color: #D10070;
+    margin-right: 120px;
+
+
+
+    font-family: Public Sans;
+    font-size: 32px;
+    font-weight: 600;
+
+}
+
+.card p {
+
+
+    font-family: Public Sans;
+    font-size: 20px;
+    font-weight: 500;
+
+    color: #191919;
+
+}

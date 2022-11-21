@@ -1,0 +1,19 @@
+.container-inputs {
+    margin-top: 20px;
+    margin-right: 340px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 8px;
+
+}
+
+.error {
+    color: #ff3c00cb;
+    font-size: 20px;
+}
+
+.success {
+    font-size: 20px;
+    color: rgba(68, 128, 0, 0.774);
+}

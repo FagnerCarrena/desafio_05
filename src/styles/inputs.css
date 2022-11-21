@@ -1,0 +1,12 @@
+input {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    background: #F8F8F8;
+    height: 44px;
+    width: 382px;
+    padding: 0 16px;
+
+    border-radius: 6px;
+}

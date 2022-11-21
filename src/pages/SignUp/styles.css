@@ -1,0 +1,21 @@
+.one {
+    height: 767px;
+    width: 446px;
+    left: 737px;
+    top: 157px;
+    border-radius: 8px;
+
+}
+
+.container-input {
+    margin-top: 20px;
+    margin-right: 230px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.container-inputss {
+    margin-right: 280px;
+}

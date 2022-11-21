@@ -1,0 +1,77 @@
+.container {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Montserrat';
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FCFCFC;
+    border-radius: 8px;
+    width: 450px;
+    height: 600px;
+
+}
+
+form h2 {
+    margin-top: 50px;
+
+    font-family: 'Public Sans';
+    font-weight: 600;
+
+}
+
+form span {
+    margin-top: 20px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+
+form p {
+    margin-top: 20px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    color: #191919;
+    font-size: 14px;
+    text-align: center;
+}
+
+.paragrafo {
+    color: #191919;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.pink {
+    color: #B7005C
+}
+
+.market {
+    margin-top: -10px;
+}
+
+.container-eye {
+    position: relative;
+}
+
+.eye-icon {
+    width: 24px;
+    position: absolute;
+    right: 16px;
+    top: 11px;
+    cursor: pointer;
+
+
+}

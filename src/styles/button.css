@@ -1,0 +1,40 @@
+button,
+.dolar {
+    all: unset;
+
+    margin-top: 30px;
+    width: 112px;
+    cursor: pointer;
+    border-radius: 30px;
+    padding: 20px 16px 20px 16px;
+    background: #B7005C;
+    color: #ffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 600
+}
+
+button:hover {
+    opacity: 0.90;
+}
+
+.dolar {
+
+    margin-bottom: 30px;
+
+    width: 185px;
+    height: 24px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+
+}
